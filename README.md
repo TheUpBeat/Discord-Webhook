@@ -1,3 +1,5 @@
 # Discord-Webhook
 
-The Advanced Embed section is currentlty not functional.
+Everything is Functional
+
+README Section me edited
