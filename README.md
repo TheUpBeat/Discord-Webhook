@@ -2,4 +2,4 @@
 
 Everything is Functional
 
-README Section me edited
+README Section will be edited
